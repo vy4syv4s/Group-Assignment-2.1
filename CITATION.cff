@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: 'If you use this assignment, please cite it using these metadata.'
+authors:
+  - name: Delft University of Technology
+title: 'MUDE assignment 2026-2027: group assignment 2.1'
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: Zijlmena
+    given-names: Marcel
+  - name: Delft University of Technology
+  url: 'https://github.com/MUDE-2026/GA2.1' 
+  title: 'MUDE assignment 2026-2027: group assignment 2.1'
+  license: CC-BY-4.0
+  license-url: 'https://creativecommons.org/licenses/by/4.0/'
+  languages:
+    - en
+  contact:
+  - email: MUDE-CEG@tudelft.nl
+    name: 'MUDE teaching team from Delft University of Technology'
